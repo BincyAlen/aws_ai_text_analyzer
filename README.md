@@ -43,7 +43,7 @@ User flow:
 - app crashes during payment processing
 ---
 
-##Sample Output
+## Sample Output
 - sentiment: NEGATIVE
 - key_phrases: crashes
   
